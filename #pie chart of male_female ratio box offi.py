@@ -20,9 +20,19 @@ Top_10.drop_duplicates(inplace=True) #remove duplicates
 director_gender = 'Male', 'Female' #define the series
 sizes = ['230','10'] #define the data sizes for the slices defined above
 
+#define the explosion of the pie chart categories
+explode = (0.0, 0.2)
+#wedge properties
+wp = {'linewidth':1, 'edgecolor': "black"}
+
 #plot pie chart
-plt.pie(sizes, explode=None, labels=director_gender, colors= ("Blue","pink"),
-        autopct=None, shadow=None)
+plt.pie(sizes, explode=explode, 
+        labels=director_gender, 
+        colors= ("#0070C0","#F612DB"),
+        autopct=None, 
+        shadow=True, 
+        wedgeprops=wp)
+plt.title('Proportion of male to female directors')
 
 #show plot
 plt.show()
