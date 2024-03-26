@@ -2,10 +2,10 @@
 
 
 #make packages available
-import ast 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.mlab as mlab
 import seaborn as sns
 
                     #Stage 1 - import the data
@@ -32,7 +32,9 @@ plt.hist(budget_values, bins=bins,
 median_budget = np.median(budget_values)
 plt.axvline(median_budget, color='r', 
             label="Median Budget ($)")
-plt.legend()
+
+#plot a legend
+plt.legend(fontsize="12")
 
     #title and labels
 plt.xlabel('Budget (Hundreds of Millions of Dollars)')
@@ -46,4 +48,5 @@ plt.title('Movie Budgets for the top box office hits in the US; 2000-2023',
 sns.despine()
 
     #show the visualisation
+plt.tight_layout()
 plt.show()
