@@ -15,8 +15,11 @@ Top_10.head(3)
 Top_10.drop_duplicates(inplace=True) #remove duplicates
 
                     #Stage 3 - data viz - pie chart
-director_gender = 'Male', 'Female' #define the series
-sizes = ['230','10'] #define the data sizes for the slices defined above
+director_gender = 'Male', 'Female' #define the series/labels
+
+#look at the data to count the values for M/F directors
+Male = Top_10.loc[Top_10['Director Gender'] == 'Male'].count()[0]
+Female = Top_10.loc[Top_10['Director Gender'] == 'Female'].count()[0]
 
 #define the explosion of the pie chart categories
 explode = (0.0, 0.2)
@@ -24,13 +27,16 @@ explode = (0.0, 0.2)
 wp = {'linewidth':1, 'edgecolor': "black"}
 
 #plot pie chart
-plt.pie(sizes, explode=explode,  
+plt.pie([Male, Female], explode=explode,  
         colors= ("#0070C0","#F612DB"),
         autopct='%1.1f%%', 
         shadow=True, 
-        wedgeprops=wp)
-plt.title('Proportion of male to female directors of US top 10 box office hits; 2000-2023')
-plt.legend(labels=director_gender, fontsize="18", loc="best")
+        wedgeprops=wp,
+        textprops={'fontsize':14}) # increase % label size
+plt.title('Proportion of male to female directors of US \n top 10 box office hits; 2000-2023',
+          fontdict={'fontweight':'bold'},
+          fontsize='16')
+plt.legend(labels=director_gender, fontsize="16", loc="best")
 
 #fine tune display and show plot
 plt.axis('equal')

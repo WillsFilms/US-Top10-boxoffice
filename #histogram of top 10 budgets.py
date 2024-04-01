@@ -37,10 +37,12 @@ plt.legend(fontsize="12")
     #title and labels
 plt.xlabel('Budget (Hundreds of Millions of Dollars)')
 plt.xlim(left=0) # starts x axis at 0
+plt.xticks(bins)
 plt.ylabel("Number of movies")
 plt.title('Movie Budgets for the top box office hits \n in the US; 2000-2023', 
+          fontdict={'fontweight':'bold'},
           size = 16,
-          pad = 10)
+          pad = 20)
 
     #remove ticks and/or spine using seaborn package
 sns.despine()
