@@ -11,9 +11,6 @@ import seaborn as sns
                     #Stage 1 - import the data
 Top_10 = pd.read_csv("C:\\Users\\HP\\Documents\\Data Analysis\\Wills Films\\Kaggle datasets\\Box_Office_top_10_2000_2023.csv")
 
-#view the first 3 rows of data
-Top_10.head(3)
-
                     #Stage 2 - preprocessing and data cleaning
 Top_10.drop_duplicates(inplace=True) #remove duplicates
 
@@ -31,7 +28,8 @@ plt.hist(budget_values, bins=bins,
     #calculate and plot the median budget value
 median_budget = np.median(budget_values)
 plt.axvline(median_budget, color='r', 
-            label="Median Budget ($)")
+            label="Median Budget ($)",
+            linestyle='--')
 
 #plot a legend
 plt.legend(fontsize="12")
@@ -40,8 +38,8 @@ plt.legend(fontsize="12")
 plt.xlabel('Budget (Hundreds of Millions of Dollars)')
 plt.xlim(left=0) # starts x axis at 0
 plt.ylabel("Number of movies")
-plt.title('Movie Budgets for the top box office hits in the US; 2000-2023', 
-          size = 14,
+plt.title('Movie Budgets for the top box office hits \n in the US; 2000-2023', 
+          size = 16,
           pad = 10)
 
     #remove ticks and/or spine using seaborn package
