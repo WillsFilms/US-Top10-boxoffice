@@ -18,8 +18,8 @@ Top_10.drop_duplicates(inplace=True) #remove duplicates
 director_gender = 'Male', 'Female' #define the series/labels
 
 #look at the data to count the values for M/F directors
-Male = Top_10.loc[Top_10['Director Gender'] == 'Male'].count()[0]
-Female = Top_10.loc[Top_10['Director Gender'] == 'Female'].count()[0]
+Male = Top_10.loc[Top_10['Director Gender'] == 'Male'].count()[0] #count number of 'Male' occurences in DG column
+Female = Top_10.loc[Top_10['Director Gender'] == 'Female'].count()[0] #count number of 'Female' occurences in DG column
 
 #define the explosion of the pie chart categories
 explode = (0.0, 0.2)
