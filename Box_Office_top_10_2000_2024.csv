@@ -1,0 +1,251 @@
+Year,Rank,Film,Budget ($),Director,Director Gender,Distributor,Genre,Month
+2000,1,How the Grinch Stole Christmas,123000000,Ron Howard,Male,Universal,Comedy,November
+2000,2,Mission: Impossible II,120000000,John Woo,Male,Paramount,Action,May
+2000,3,Gladiator,103000000,Ridley Scott,Male,Dreamworks,Action,May
+2000,4,The Perfect Storm,120000000,Wolfgang Petersen,Male,Warner Bros,Drama,June 
+2000,5,Meet The Parents,55000000,Jay Roach,Male,Universal,Comedy,October
+2000,6,X-Men,75000000,Bryan Singer,Male,Twentieth Century Fox,Action,July
+2000,7,Scary Movie,19000000,Keenan Ivory Wayans,Male,Miramax ,Comedy,July
+2000,8,What Lies Beneath,100000000,Robert Zemeckis,Male,Dreamworks,Horror,July
+2000,9,Dinosaur ,127500000,Ralph Zondag,Male,Walt Disney,Animation,May
+2000,10,Erin Brockovich,52000000,Steven Soderbergh,Male,Universal,Drama,March
+2001,1,Harry Potter and the Philosophers Stone,125000000,Chris Columbus,Male,Warner Bros,Fantasy,November
+2001,2,Shrek,60000000,Andrew Adamson,Male,Dreamworks,Animation,May
+2001,3,Monsters Inc.,115000000,Pete Docter,Male,Walt Disney,Animation,November
+2001,4,Rush Hour 2,90000000,Brett Ratner,Male,New Line Cinema,Comedy,August
+2001,5,The Mummy Returns,98000000,Stephen Sommers,Male,Universal,Adventure,May
+2001,6,Pearl Harbour,140000000,Michael Bay,Male,Walt Disney,Drama,May
+2001,7,Jurassic Park III,93000000,Joe Johnston,Male,Universal,Sci-fi,July
+2001,8,Planet of the Apes,100000000,Tim Burton,Male,Twentieth Century Fox,,July
+2001,9,Hannibal,87000000,Ridley Scott,Male,MGM,Horror,February
+2001,10,The Lord of the Rings: The Fellowship of the Ring,93000000,Peter Jackson,Male,New Line Cinema,Fantasy,December
+2002,1,Spider-Man,139000000,Sam Raimi,Male,Sony Pictures,Superhero,May
+2002,2,Star Wars: Episode II - Attack of the Clones,115000000,George Lucas,Male,Twentieth Century Fox,Sci-fi,May
+2002,3,Harry Potter and the Chamber of Secrets,100000000,Chris Columbus,Male,Warner Bros,Fantasy,November
+2002,4,Signs,72000000,M Night Shyamalan,Male,Walt Disney,Horror,August
+2002,5,My Big Fat Greek Wedding,5000000,Joel Zwick,Male,IFC Films,Comedy,April
+2002,6,The Lord of the Rings: The Two Towers,94000000,Peter Jackson,Male,New Line Cinema,Fantasy,December
+2002,7,Austin Powers in Goldmember,63000000,Jay Roach,Male,New Line Cinema,Comedy,July
+2002,8,Men in Black II,140000000,Barry Sonnenfeld,Male,Sony Pictures,Sci-fi,July
+2002,9,Ice Age,59000000,Chris Wedge,Male,Twentieth Century Fox,Animation,March
+2002,10,A Beautiful Mind,58000000,Ron Howard,Male,Universal,Drama,December
+2003,1,Finding Nemo,94000000,Andrew Stanton,Male,Walt Disney,Animation,May
+2003,2,Pirates of the Carribean: The Curse of the Black Pearl,140000000,Gore Verbinski,Male,Walt Disney,Action,July
+2003,3,The Matrix Reloaded,127000000,The Wachowski's,Female,Warner Bros,Sci-fi,May
+2003,4,The Lord of the Rings: Return of the King,94000000,Peter Jackson,Male,New Line Cinema,Fantasy,December
+2003,5,Bruce Almighty,81000000,Tom Shadyac,Male,Universal,Comedy,May
+2003,6,X2 ,110000000,Bryan Singer,Male,Twentieth Century Fox,Superhero,May
+2003,7,Elf,33000000,Jon Favreau,Male,New Line Cinema,Comedy,November
+2003,8,Chicago,45000000,Rob Marshall,Male,Miramax ,Musical,December
+2003,9,Terminator 3: Rise of the Machines,187300000,Johnathan Mostow,Male,Warner Bros,Sci-fi,July
+2003,10,Bad Boys II,130000000,Michael Bay,Male,Sony Pictures,Action,July
+2004,1,Shrek 2 ,150000000,Andrew Adamson,Male,Dreamworks,Animation,May
+2004,2,Spider-Man 2,200000000,Sam Raimi,Male,Sony Pictures,Superhero,June 
+2004,3,The Passion of the Christ,30000000,Mel Gibson,Male,Newmarket Films,Drama,February
+2004,4,Harry Potter and the Prisoner of Azkaban,130000000,Alfonso Cuaron,Male,Warner Bros,Fantasy,June 
+2004,5,The Incredibles,120000000,Brad Bird,Male,Walt Disney,Animation,November
+2004,6,The Day After Tomorrow,125000000,Roland Emmerich,Male,Twentieth Century Fox,Action,May
+2004,7,The Bourne Supremacy,75000000,Paul Greengrass,Male,Universal,Action,July
+2004,8,Shark Tale,75000000,Vicky Jenson,Female,Dreamworks,Animation,August
+2004,9,The Polar Express,165000000,Robert Zemeckis,Male,Warner Bros,Animation,November
+2004,10,National Treasure,100000000,Jon Turteltaub,Male,Walt Disney,Adventure,November
+2005,1,Star Wars: Episode III - Revenge of the Sith,113000000,George Lucas,Male,Twentieth Century Fox,Sci-fi,May
+2005,2,Harry Potter and the Goblet of Fire,150000000,Mike Newell,Male,Warner Bros,Fantasy,November
+2005,3,War of the Worlds,132000000,Steven Spielberg,Male,Paramount,Sci-fi,June 
+2005,4,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe",180000000,Andrew Adamson,Male,Walt Disney,Fantasy,December
+2005,5,Wedding Crashers,40000000,David Dobkin,Male,New Line Cinema,Comedy,July
+2005,6,Charlie and the Chocolate Factory,150000000,Tim Burton,Male,Warner Bros,Fantasy,July
+2005,7,Batman Begins,150000000,Christopher Nolan,Male,Warner Bros,Superhero,June 
+2005,8,Madagascar,75000000,Eric Darnell,Male,Dreamworks,Animation,May
+2005,9,Mr. and Mrs. Smith,110000000,Doug Liman,Male,Twentieth Century Fox,Action,June 
+2005,10,Hitch,55000000,Andy Tennant,Male,Sony Pictures,Comedy,February
+2006,1,Pirates of the Carribean: Dead Man's Chest,225000000,Gore Verbinski,Male,Walt Disney,Action,July
+2006,2,Cars,120000000,John Lasseter,Male,Walt Disney,Animation,June 
+2006,3,X-Men: The Last Stand,21000000,Brett Ratner,Male,Twentieth Century Fox,Superhero,May
+2006,4,The DaVinci Code,125000000,Ron Howard,Male,Sony Pictures,Thriller,May
+2006,5,Superman Returns,223000000,Bryan Singer,Male,Warner Bros,Superhero,June 
+2006,6,Ice Age: The Meltdown,80000000,Carlos Saldanha,Male,Twentieth Century Fox,Animation,March
+2006,7,Happy Feet,100000000,George Miller,Male,Warner Bros,Animation,November
+2006,8,Over the Hedge ,80000000,Tim Johnson,Male,Dreamworks,Animation,May
+2006,9,Casino Royale,102000000,Martin Campbell,Male,Sony Pictures,Action,November
+2006,10,Talladega Nights: The Ballad of Ricky Bobby,72500000,Adam McKay,Male,Sony Pictures,Comedy,August
+2007,1,Spider-Man 3,300000000,Sam Raimi,Male,Sony Pictures,Superhero,May
+2007,2,Shrek the Third,160000000,Chris Miller,Male,Dreamworks,Animation,May
+2007,3,Transformers,175000000,Michael Bay,Male,Dreamworks,Sci-fi,July
+2007,4,Pirates of the Carribean: At World's End,300000000,Gore Verbinski,Male,Walt Disney,Action,May
+2007,5,Harry Potter and the Order of the Phoenix,175000000,David Yates,Male,Warner Bros,Fantasy,July
+2007,6,The Bourne Ultimatum,110000000,Paul Greengrass,Male,Universal,Action,August
+2007,7,300,60000000,Zack Snyder,Male,Warner Bros,Action,March
+2007,8,Ratatouille,150000000,Brad Bird,Male,Walt Disney,Animation,June 
+2007,9,I Am Legend,150000000,Francis Lawrence,Male,Warner Bros,Horror,December
+2007,10,The Simpsons Movie,75000000,David Silverman,Male,Twentieth Century Fox,Animation,July
+2008,1,The Dark Knight,185000000,Christopher Nolan,Male,Warner Bros,Superhero,July
+2008,2,Iron Man,130000000,Jon Favreau,Male,Paramount,Superhero,May
+2008,3,Indiana Jones and the Kingdom of the Crystal Skull,185000000,Steven Spielberg,Male,Paramount,Adventure,May
+2008,4,Hancock,150000000,Peter Berg,Male,Sony Pictures,Superhero,July
+2008,5,WALL:E,180000000,Andrew Stanton,Male,Walt Disney,Animation,June 
+2008,6,Kung Fu Panda,130000000,John Stevenson,Male,Dreamworks,Animation,June 
+2008,7,Madagascar: Escape 2 Africa,150000000,Eric Darnell,Male,Dreamworks,Animation,November
+2008,8,Twilight,37000000,Catherine Hardwick,Female,Summit Entertainment,Fantasy,November
+2008,9,Quantum of Solace,215000000,Marc Forster,Male,Sony Pictures,Action,November
+2008,10,Horton Hears a Who!,85000000,Jimmy Haywood,Male,Twentieth Century Fox,Animation,March
+2009,1,Transformers: Revenge of the Fallen,200000000,Michael Bay,Male,Dreamworks,Sci-fi,June 
+2009,2,Harry Potter and the Half-Blood Prince,250000000,David Yates,Male,Warner Bros,Fantasy,July
+2009,3,Up,175000000,Pete Docter,Male,Walt Disney,Animation,May
+2009,4,Twilight: New Moon,50000000,Chris Weitz,Male,Summit Entertainment,Fantasy,November
+2009,5,Avatar,237000000,James Cameron,Male,Twentieth Century Fox,Sci-fi,December
+2009,6,The Hangover,35000000,Todd Phillips,Male,Warner Bros,Comedy,June 
+2009,7,Star Trek,150000000,JJ Abrams,Male,Paramount,Sci-fi,May
+2009,8,Monsters vs. Aliens,175000000,Conrad Vernon,Male,Dreamworks,Animation,March
+2009,9,Ice Age: Dawn of the Dinosaurs,90000000,Carlos Saldanha,Male,Twentieth Century Fox,Animation,July
+2009,10,The Blind Side,29000000,John Lee Hancock,Male,Warner Bros,Drama,November
+2010,1,Avatar,237000000,James Cameron,Male,Twentieth Century Fox,Sci-fi,December
+2010,2,Toy Story 3,200000000,Lee Unkrich,Male,Walt Disney,Animation,June 
+2010,3,Alice in Wonderland,175000000,Tim Burton,Male,Walt Disney,Fantasy,March
+2010,4,Iron Man 2,185000000,Jon Favreau,Male,Paramount,Superhero,May
+2010,5,Twilight: Eclipse,68000000,David Slade,Male,Summit Entertainment,Fantasy,June 
+2010,6,Inception,160000000,Christopher Nolan,Male,Warner Bros,Sci-fi,July
+2010,7,Harry Potter and the Deathly Hallows: Part 1,250000000,David Yates,Male,Warner Bros,Fantasy,November
+2010,8,Despicable Me,69000000,Chris Renaud,Male,Universal,Animation,July
+2010,9,Shrek Forever After,150000000,Mike Mitchell,Male,Dreamworks,Animation,May
+2010,10,How to Train Your Dragon,165000000,Chris Sanders,Male,Dreamworks,Animation,March
+2011,1,Harry Potter and the Deathly Hallows: Part 2,250000000,David Yates,Male,Warner Bros,Fantasy,July
+2011,2,Transformers: Dark of the Moon,195000000,Michael Bay,Male,Dreamworks,Sci-fi,June
+2011,3,Twilight: Breaking Dawn - Part 1,127000000,Bill Condon,Male,Summit Entertainment,Fantasy,November
+2011,4,The Hangover Part II,80000000,Todd Phillips,Male,Warner Bros,Comedy,May
+2011,5,Pirates of the Carribean: On Stranger Tides,410000000,Rob Marshall,Male,Walt Disney,Adventure,May
+2011,6,Fast Five,125000000,Justin Lin,Male,Universal,Action,April
+2011,7,Cars 2,200000000,John Lasseter,Male,Walt Disney,Animation,June
+2011,8,Thor,150000000,Kenneth Branagh,Male,Paramount,Superhero,May
+2011,9,Rise of the Planet of the Apes,93000000,Rupert Wyatt,Male,Twentieth Century Fox,Sci-fi,August
+2011,10,Captain America: The First Avenger,175000000,Joe Johnston,Male,Paramount,Animation,July
+2012,1,The Avengers,220000000,Joss Whedon,Male,Walt Disney,Superhero,May
+2012,2,The Dark Knight Rises,250000000,Christopher Nolan,Male,Warner Bros,Superhero,July
+2012,3,The Hunger Games,78000000,Gary Ross,Male,Lionsgate,Sci-fi,March
+2012,4,Skyfall,175000000,Sam Mendes,Male,Sony Pictures,Action,November
+2012,5,Twilight: Breaking Dawn - Part 2,136000000,Bill Condon,Male,Lionsgate,Fantasy,November
+2012,6,The Amazing Spider-Man,215000000,Marc Webb,Male,Sony Pictures,Superhero,July
+2012,7,Brave,185000000,Mark Andrews,Male,Walt Disney,Animation,June
+2012,8,The Hobbit: An Unexpected Journey,260000000,Peter Jackson,Male,Warner Bros,Fantasy,December
+2012,9,Ted,55000000,Seth MacFarlane,Male,Universal,Comedy,June
+2012,10,Madagascar 3,145000000,Eric Darnell,Male,Dreamworks,Animation,June
+2013,1,Iron Man 3,200000000,Shane Black,Male,Walt Disney,Superhero,May
+2013,2,The Hunger Games: Catching Fire,135000000,Francis Lawrence,Male,Lionsgate,Sci-fi,November
+2013,3,Despicable Me 2,76000000,Chris Renaud,Male,Universal,Animation,July
+2013,4,Man of Steel,235000000,Zack Snyder,Male,Warner Bros,Superhero,June
+2013,5,Monsters University,200000000,Dan Scanlon,Male,Walt Disney,Animation,June
+2013,6,Frozen,150000000,Chris Buck,Male,Walt Disney,Animation,November
+2013,7,Gravity,105000000,Alfonso Cuaron,Male,Warner Bros,Sci-fi,October
+2013,8,Fast & Furious 6,210000000,Justin Lin,Male,Universal,Action,May
+2013,9,Oz the Great and Powerful,215000000,Sam Raimi,Male,Walt Disney,Fantasy,March
+2013,10,Star Trek into Darkness,185000000,JJ Abrams,Male,Paramount,Sci-fi,May
+2014,1,Guardians of the Galaxy,232000000,James Gunn,Male,Walt Disney,Superhero,August
+2014,2,The Hunger Games: Mockingjay - Part 1,130000000,Francis Lawrence,Male,Lionsgate,Sci-fi,November
+2014,3,Captain America: The Winter Soldier,170000000,The Russo's,Male,Walt Disney,Superhero,April
+2014,4,The Lego Movie,60000000,Lord and Miller,Male,Warner Bros,Animation,February
+2014,5,Transformers: Age of Extinction,210000000,Michael Bay,Male,Paramount,Sci-fi,June
+2014,6,Maleficent,220000000,Robert Stromberg,Male,Walt Disney,Fantasy,May
+2014,7,X-Men: Days of Future Past,200000000,Bryan Singer,Male,Twentieth Century Fox,Superhero,May
+2014,8,Dawn of the Planet of the Apes,170000000,Matt Reeves,Male,Twentieth Century Fox,Sci-fi,July
+2014,9,Big Hero 6,165000000,Don Hall,Male,Walt Disney,Animation,November
+2014,10,The Amazing Spider-Man 2,245000000,Marc Webb,Male,Sony Pictures,Superhero,May
+2015,1,Jurassic World,180000000,Colin Trevorrow,Male,Universal,Sci-fi,June
+2015,2,Star Wars: Episode VII - The Force Awakens,447000000,JJ Abrams,Male,Walt Disney,Sci-fi,December
+2015,3,Avengers: Age of Ultron,470000000,Joss Whedon,Male,Walt Disney,Superhero,May
+2015,4,Inside Out,175000000,Pete Docter,Male,Walt Disney,Animation,June
+2015,5,Furious 7,190000000,James Wan,Male,Universal,Action,April
+2015,6,American Sniper,59000000,Clint Eastwood,Male,Warner Bros,Drama,December
+2015,7,Minions,74000000,Pierre Coffin,Male,Universal,Animation,July
+2015,8,The Hunger Games: Mockingjay - Part 2,160000000,Francis Lawrence,Male,Lionsgate,Sci-fi,November
+2015,9,The Martian,108000000,Ridley Scott,Male,Twentieth Century Fox,Sci-fi,October
+2015,10,Cinderella,90000000,Kenneth Branagh,Male,Walt Disney,Musical,March
+2016,1,Finding Dory,200000000,Andrew Stanton,Male,Walt Disney,Animation,June
+2016,2,Rogue One,230000000,Gareth Edwards,Male,Walt Disney,Sci-fi,December
+2016,3,Captain America: Civil War,250000000,The Russo's,Male,Walt Disney,Superhero,May
+2016,4,The Secret Life of Pets,75000000,Chris Renaud,Male,Universal,Animation,July
+2016,5,The Jungle Book,175000000,Jon Favreau,Male,Walt Disney,Musical,April
+2016,6,Deadpool,58000000,Tim Miller,Male,Twentieth Century Fox,Superhero,February
+2016,7,Zootopia,150000000,Byron Howard,Male,Walt Disney,Animation,March
+2016,8,Batman v Superman,285000000,Zack Snyder,Male,Warner Bros,Superhero,March
+2016,9,Suicide Squad,175000000,David Ayer,Male,Warner Bros,Superhero,August
+2016,10,Star Wars: Episode VII - The Force Awakens,447000000,JJ Abrams,Male,Walt Disney,Sci-fi,December
+2017,1,Star Wars: Episode VIII - The Last Jedi,300000000,Rian Johnson,Male,Walt Disney,Sci-fi,December
+2017,2,Beauty and the Beast,210000000,Bill Condon,Male,Walt Disney,Musical,March
+2017,3,Wonder Woman,149000000,Patty Jenkins,Female,Warner Bros,Superhero,June
+2017,4,Guardians of the Galaxy vol.2,200000000,James Gunn,Male,Walt Disney,Superhero,May
+2017,5,Spider-Man: Homecoming,175000000,Jon Watts,Male,Sony Pictures,Superhero,July
+2017,6,It,35000000,Andy Muschietti,Male,Warner Bros,Horror,September
+2017,7,Thor: Ragnarok,180000000,Taika Waititi,Male,Walt Disney,Superhero,November
+2017,8,Despicable Me 3,80000000,Pierre Coffin,Male,Universal,Animation,June
+2017,9,Logan,112000000,James Mangold,Male,Twentieth Century Fox,Superhero,March
+2017,10,The Fate of the Furious,260000000,F Gary Gray,Male,Universal,Action,April
+2018,1,Black Panther,200000000,Ryan Coogler,Male,Walt Disney,Superhero,February
+2018,2,Avengers: Infinity War,360000000,The Russo's,Male,Walt Disney,Superhero,April
+2018,3,Incredibles 2,200000000,Brad Bird,Male,Walt Disney,Animation,June
+2018,4,Jurassic World: Fallen Kingdom,432000000,JA Bayona,Male,Universal,Sci-fi,June
+2018,5,Deadpool 2,110000000,David Leitch,Male,Twentieth Century Fox,Superhero,May
+2018,6,The Grinch,75000000,Scott Mosier,Male,Universal,Animation,November
+2018,7,Jumanji: Welcome to the Jungle,120000000,Jake Kasdan,Male,Sony Pictures,Adventure,December
+2018,8,Mission: Impossible Fallout,180000000,Christopher McQuarrie,Male,Paramount,Action,July
+2018,9,Ant-Man and the Wasp,160000000,Peyton Reed,Male,Walt Disney,Superhero,July
+2018,10,Solo: A Star Wars Story,300000000,Ron Howard,Male,Walt Disney,Sci-fi,May
+2019,1,Avengers: Endgame,375000000,The Russo's,Male,Walt Disney,Superhero,April
+2019,2,The Lion King,255000000,Jon Favreau,Male,Walt Disney,Musical,July
+2019,3,Toy Story 4,200000000,Josh Cooley,Male,Walt Disney,Animation,June
+2019,4,Frozen II,150000000,Chris Buck,Male,Walt Disney,Animation,November
+2019,5,Captain Marvel,162000000,Anna Boden,Female,Walt Disney,Superhero,March
+2019,6,Star Wars: Episode IX - The Rise of Skywalker,416000000,JJ Abrams,Male,Walt Disney,Sci-fi,December
+2019,7,Spider-Man: Far From Home,160000000,Jon Watts,Male,Sony Pictures,Superhero,July
+2019,8,Aladdin,183000000,Guy Ritchie,Male,Walt Disney,Musical,May
+2019,9,Joker,62000000,Todd Phillips,Male,Warner Bros,Drama,October
+2019,10,It Chapter 2,79000000,Andy Muschietti,Male,Warner Bros,Horror,September
+2020,1,Bad Boys for Life,90000000,Adil and Billal,Male,Sony Pictures,Action,January
+2020,2,1917,95000000,Sam Mendes,Male,Universal,Drama,December
+2020,3,Sonic the Hedgehog,90000000,Jeff Fowler,Male,Paramount,Comedy,February
+2020,4,Jumanji: The Next Level,130000000,Jake Kasdan,Male,Sony Pictures,Adventure,December
+2020,5,Star Wars: Episode IX - The Rise of Skywalker,416000000,JJ Abrams,Male,Walt Disney,Sci-fi,December
+2020,6,Birds of Prey,90000000,Cathy Yan,Female,Warner Bros,Superhero,February
+2020,7,Dolittle,180000000,Stephen Gaghan,Male,Universal,Comedy,January
+2020,8,Little Women,40000000,Greta Gerwig,Female,Sony Pictures,Drama,December
+2020,9,The Invisible Man,7000000,Leigh Whannell,Male,Universal,Horror,February
+2020,10,The Call of the Wild,137000000,Chris Sanders,Male,20th Century Studios,Adventure,February
+2021,1,Spider-Man: No Way Home,200000000,Jon Watts,Male,Sony Pictures,Superhero,December
+2021,2,Shang-chi and the Legend of the Ten Rings,175000000,Destin Daniel Cretton,Male,Walt Disney,Superhero,September
+2021,3,Venom: Let There be Carnage,110000000,Andy Serkis,Male,Sony Pictures,Superhero,October
+2021,4,Black Widow,288500000,Cate Shortland,Female,Walt Disney,Superhero,July
+2021,5,F9,210000000,Justin Lin,Male,Universal,Action,June
+2021,6,Eternals,236200000,Chloe Zhao,Female,Walt Disney,Superhero,November
+2021,7,No Time to Die,275000000,Cary Joji Fukunaga,Male,MGM,Action,October
+2021,8,A Quiet Place Part II,55000000,John Krasinski,Male,Paramount,Horror,May
+2021,9,Ghostbusters: Afterlife,75000000,Jason Reitman,Male,Sony Pictures,Sci-fi,November
+2021,10,Free Guy,110000000,Shawn Levy,Male,20th Century Studios,Comedy,August
+2022,1,Top Gun: Maverick,170000000,Joseph Kosinski,Male,Paramount,Action,May
+2022,2,Black Panther: Wakanda Forever,225000000,Ryan Coogler,Male,Walt Disney,Superhero,November
+2022,3,Doctor Strange in the Multiverse of Madnes,295000000,Sam Raimi,Male,Walt Disney,Superhero,May
+2022,4,Avatar: The Way of Water,400000000,James Cameron,Male,20th Century Studios,Sci-fi,December
+2022,5,Jurassic World Dominion,265000000,Colin Trevorrow,Male,Universal,Sci-fi,June
+2022,6,Minions: The Rise of Gru,90000000,Kyle Balda,Male,Universal,Animation,July
+2022,7,The Batman,195000000,Matt Reeves,Male,Warner Bros,Superhero,March
+2022,8,Thor: Love and Thunder,250000000,Taika Waititi,Male,Walt Disney,Superhero,July
+2022,9,Spider-Man: No Way Home,200000000,Jon Watts,Male,Sony Pictures,Superhero,December
+2022,10,Sonic the Hedgehog 2,100000000,Jeff Fowler,Male,Paramount,Comedy,April
+2023,1,Barbie ,135000000,Greta Gerwig,Female,Warner Bros,Comedy,July
+2023,2,The Super Mario Brother Movie,100000000,Aaron Horvarth,Male,Universal,Animation,April
+2023,3,Spiderman-Man: Across the Spiderverse,125000000,Joaquim Dos Santos,Male,Columbia Pictures,Animation,June
+2023,4,Guardians of the Galaxy vol.3,250000000,James Gunn,Male,Walt Disney,Superhero,May
+2023,5,Oppenheimer,100000000,Christopher Nolan,Male,Universal,Drama,July
+2023,6,The Little Mermaid,240000000,Rob Marshall,Male,Walt Disney,Musical,May
+2023,7,Avatar: The Way of Water,400000000,James Cameron,Male,20th Century Studios,Sci-fi,December
+2023,8,Ant-Man and the Wasp: Quantumania,275000000,Peyton Reed,Male,Walt Disney,Superhero,February
+2023,9,John Wick: Chapter 4,100000000,Chad Stahelski,Male,Lionsgate,Action,March
+2023,10,The Sound of Freedom,14500000,Alejandro Monteverde,Male,Angel Studios,Action,July
+2024,1,Inside Out 2,200000000,Kelsey Mann,Male,Walt Disney,Animation,June
+2024,2,Deadpool & Wolverine,200000000,Shawn Levy,Male,Walt Disney,Superhero,July
+2024,3,Wicked,150000000,Jon M Chu,Male,Universal,Musical,November
+2024,4,Moana 2,150000000,Dana Leydoux Miller,Female,Walt Disney,Animation,November
+2024,5,Despicable Me 4,100000000,Chris Renaud,Male,Universal,Animation,July
+2024,6,Beetlejuice Beetlejuice,100000000,Tim Burton,Male,Warner Bros,Comedy,September
+2024,7,Dune: Part Two,190000000,Denis Villeneuve,Male,Warner Bros,Sci-fi,March
+2024,8,Twisters,155000000,Lee Isaac Chung,Male,Universal,Action,July
+2024,9,Godzilla X Kong: The New Empire,150000000,Adam Wingard,Male,Warner Bros,Sci-fi,March
+2024,10,Kung Fu Panda 4,85000000,Mike Mitchell,Male,Universal,Animation,March
